@@ -21,7 +21,6 @@ public class Fichas {
         this.max = tablero.getWidth() * tablero.getWidth();
         position = 1;
     }
-
     /**
      * Constructor for the "Fichas" class.
      *

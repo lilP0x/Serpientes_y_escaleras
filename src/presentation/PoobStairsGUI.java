@@ -820,7 +820,7 @@ public class PoobStairsGUI extends JFrame {
 			paintStair(casiInicial, casiFinal, g);
 		}
 	}
-	
+
 	/**
 	 * Paints an individual stair on the game board.
 	 *

@@ -7,7 +7,6 @@ import org.junit.jupiter.api.Test;
 
 class PoobStairsTest {
 
-
    @Test
     public void numeroDeCasiilas(){
         SnakesAndStairs juego = new SnakesAndStairs("a", "b", "red", "blue" ,11,3,3,0.2,1);
